@@ -1,4 +1,4 @@
-# VSCode-RegEx
+# VSCode RegEx Examples
 
 ## Word Searches
 
